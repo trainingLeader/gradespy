@@ -24,7 +24,7 @@ if (__name__ == "__main__"):
                     opcNota = int(input(':)'))
                     match opcNota:
                         case 1:
-                            pass
+                            print('umm')
                         case 2:
                             pass
                         case 3:
